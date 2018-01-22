@@ -3,9 +3,6 @@ package architecture.mvp.com.mvparchitecture.model;
 import android.os.Handler;
 import android.text.TextUtils;
 
-/**
- * Created by kshitij on 16/04/17.
- */
 
 public class LoginInteractorImpl implements LoginInteractor {
     @Override

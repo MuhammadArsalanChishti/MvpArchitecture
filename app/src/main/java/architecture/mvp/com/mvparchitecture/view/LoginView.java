@@ -1,8 +1,5 @@
 package architecture.mvp.com.mvparchitecture.view;
 
-/**
- * Created by kshitij on 16/04/17.
- */
 
 public interface LoginView {
 

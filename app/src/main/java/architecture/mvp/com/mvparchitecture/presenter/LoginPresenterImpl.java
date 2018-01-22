@@ -5,9 +5,6 @@ import architecture.mvp.com.mvparchitecture.model.LoginInteractor;
 import architecture.mvp.com.mvparchitecture.model.LoginInteractorImpl;
 import architecture.mvp.com.mvparchitecture.view.LoginView;
 
-/**
- * Created by kshitij on 16/04/17.
- */
 
 public class LoginPresenterImpl implements LoginPresenter,LoginInteractor.onLoginFinishedListener {
 
